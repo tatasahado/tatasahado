@@ -6,7 +6,7 @@
 
 ## 📌 Sobre mim
 
-Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas no Senac**, construindo minha trajetória na área de tecnologia.
+Sou estudante do **2º semestre de ADS na Faculdade Senac RJ**, construindo minha trajetória na área de tecnologia.
 
 Minha jornada na programação começou com **Python**, seguida pelo aprendizado de **HTML e CSS**. Atualmente, venho ampliando meus conhecimentos com **JavaScript e Java**.
 
